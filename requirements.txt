@@ -1,0 +1,15 @@
+pip==23.1.2
+jupyter==1.0.0
+notebook==6.5.4
+numpy==1.24.3
+seaborn==0.12.2
+pycodestyle==2.10.0
+pylint==2.17.4
+pytest==7.3.2
+ipdb==0.13.13
+jupyterthemes==0.20.0
+xlrd==2.0.1
+matplotlib==3.7.1
+pandas==2.0.2
+scikit-learn==1.2.2
+yellowbrick==1.5
