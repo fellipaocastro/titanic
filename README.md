@@ -1,3 +1,3 @@
 # titanic
 
-´jt -t monokai -f ubuntu -T && jupyter-notebook´
+`jt -t monokai -f ubuntu -T && jupyter-notebook`
