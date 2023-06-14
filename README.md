@@ -1,8 +1,3 @@
-# Estatística para Ciência de Dados e Machine Learning
+# titanic
 
-- Amostragem
-  - aleatória simples
-  - sistemática
-  - por grupos
-  - estratificada
-  - de reservatório
+´jt -t monokai -f ubuntu -T && jupyter-notebook´
